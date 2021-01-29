@@ -2,6 +2,8 @@
 ### PERINTAH
 
 https://github.com/ROMI-AFRZL/find/blob/main/Ngentod/20210129_123600.png
+https://github.com/ROMI-AFRZL/find/blob/main/Ngentod/20210129_123627.png
+
 
 ![#c5f015](https://imgrp2.xiaolee.net/i/aHR0cHM6Ly9wbGFjZWhvbGQuaXQvMTUvYzVmMDE1LzAwMDAwMD90ZXh0PSs=.jpg) <b>`pkg update && pkg upgrade`
 
